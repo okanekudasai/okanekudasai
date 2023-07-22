@@ -4,7 +4,7 @@
 
 
 ### 🌱 블로그
-[https://okane-on-cliff.tistory.com/](%20https://okane-on-cliff.tistory.com/)
+[https://okane-on-cliff.tistory.com/](%20hssssttps://okane-on-cliff.tistory.com/)
 
 ### :octocat: 포트폴리오 : 
 [https://okanekudasai.github.io/](%20https://okanekudasai.github.io/)
