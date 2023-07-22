@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f1f1fe&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dongha's%20GitHub%20Profile%20&descAlignY=51&descAlign=62)
 
 
-### 🌱 블로그
-[https://okane-on-cliff.tistory.com/](https://okane-on-cliff.tistory.com/)
-
 ### :octocat: 포트폴리오 : 
 [https://okanekudasai.github.io/](https://okanekudasai.github.io/)
+
+### 🌱 기술블로그 :
+[https://okane-on-cliff.tistory.com/](https://okane-on-cliff.tistory.com/)
