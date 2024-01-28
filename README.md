@@ -8,3 +8,6 @@
 
 ### 🌱 기술블로그 :
 [https://okane-on-cliff.tistory.com/](https://okane-on-cliff.tistory.com/)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=opi6opi6)](https://solved.ac/opi6opi6/)
